@@ -19,6 +19,7 @@ The flightmanagement database had three tables:
 <br><br>
 
 
+# The following are the screenshots of the output 
 ## Admin : Logging and adding Flight Details
 <br><br>
 ![image](https://github.com/Subhi2002/FLIGHT-MANAGEMENT-SYSTEM/assets/75176547/d104bdae-e9fc-4026-8496-9aefbe7005c6)
